@@ -3,7 +3,15 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+
+Learning Rails
+==
+Learning Rails with a tutorial from the RailsApps project.
+
+
+
+
+
 
 * Ruby version
 
